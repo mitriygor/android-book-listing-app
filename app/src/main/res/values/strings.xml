@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="hello">Hello, what kind of book are you looking for?</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="hint_book_title">Book Title</string>
+    <string name="button_seearch">Search</string>
+    <string name="error">An error occurred, please try again later</string>
+</resources>
